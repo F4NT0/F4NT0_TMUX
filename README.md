@@ -48,4 +48,4 @@ chmod +x configurar.sh
 
 ## Comandos para usar no TMUX
 
-* Existe um PDF que possui comandos uteis para usar no TMUX neste Repositório, use-o e se tiver outros comandos uteis, 
+* Existe um PDF que possui comandos uteis para usar no TMUX neste Repositório, use-o e se tiver outros comandos uteis, me avise
